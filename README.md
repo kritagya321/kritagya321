@@ -15,7 +15,7 @@ My expertise spans across:
 - **Backend development** with focus on performance & scalability
 - **AI/ML** systems and data analytics
 
-I thrive in teams where engineering excellence, security, and system reliability are paramount.
+I thrive in teams where engineering excellence, security, and system reliability are paramount, and where mentorship, curiosity, and thoughtful collaboration drive innovation.
 
 ---
 
@@ -46,15 +46,6 @@ I thrive in teams where engineering excellence, security, and system reliability
 - ⚙️ [`Scala-RDD`](https://github.com/kritagya321/Scala-RDD) — Working with Spark RDDs for big data transformation
 - 📊 [`Assessment`](https://github.com/kritagya321/Assessment) — Technical assessments and coding challenges in Go
 - 🎯 [`FinalProject`](https://github.com/kritagya321/FinalProject) — Full-stack web application with HTML/CSS/JavaScript
-
----
-
-## 🧭 Goals for 2025
-
-- 🎓 Contribute to **AI research papers** or applied AI blogs  
-- 🌐 Launch a personal **tech portfolio website** ([coming soon](https://kritagya321.github.io))  
-- 💼 Transition into an **AI/ML-focused engineering role**  
-- 🤝 Mentor or collaborate on meaningful open-source projects
 
 ---
 
